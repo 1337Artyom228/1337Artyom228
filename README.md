@@ -1,1 +1,1 @@
-im noob python programmer
+1 month onlder than django
